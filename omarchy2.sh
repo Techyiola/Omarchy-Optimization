@@ -46,8 +46,10 @@ PACMAN_PACKAGES=(
 REMOVE_PACKAGES=(
     chromium
     claude-code
-    typhora
-    xournalapp
+    signal-desktop
+    libreoffice-fresh
+    typora
+    xournalpp
     1password-cli
     1password-beta
     aether
