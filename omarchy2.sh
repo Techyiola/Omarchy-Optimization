@@ -23,18 +23,18 @@ section() { echo -e "\n${BOLD}━━━  $*  ━━━${RESET}"; }
 #  0. CONFIGURATION — edit these to suit your setup
 # =============================================================================
 
-GIT_NAME="Techyiola"
-GIT_EMAIL="eashanpoddar16@gmail.com"
+GIT_NAME="Your Git name"
+GIT_EMAIL="Your git email"
 
 # Packages to install via paru (AUR + official repos)
-AUR_PACKAGES=(
-    brave-origin-beta-bin                   # FIX: was 'brave-origin-beta-bin' (not a real AUR package)
-    catnap                      # CLI system info fetcher
-    linux-wifi-hotspot          # Wi-Fi hotspot manager
-    fish
-    haruna                        # Fish shell
-)
-
+#AUR_PACKAGES=(
+#    brave-bin                   # FIX: was 'brave-origin-beta-bin' (not a real AUR package)
+#    catnap                      # CLI system info fetcher
+#    linux-wifi-hotspot          # Wi-Fi hotspot manager
+#    fish
+#    haruna                        # Fish shell
+#)
+###the above part seems to be broken in most times will fix it in next update 
 # Packages to install via pacman (official repos)
 PACMAN_PACKAGES=(
     nano
