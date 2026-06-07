@@ -2,8 +2,6 @@
 
 A set of scripts to debloat and optimize your [Omarchy](https://github.com/basecamp/omarchy) experience.
 
-> ⚠️ Run `debloat.sh` first, then `install.sh`.
-
 ---
 
 ## Step 1 — Debloat
