@@ -12,7 +12,7 @@ yay -S fish nano catnap linux-wifi-hotspot hostapd dnsmasq pacman-contrib zen-br
 sudo pacman -Rns $(pacman -Qdtq)
 
 # Install a darker theme for omarchy
- omarchy-theme-install https://github.com/atif-1402/omarchy-latchdark-theme.git
+# omarchy-theme-install https://github.com/atif-1402/omarchy-latchdark-theme.git
 
 
 # Delete the crap 
