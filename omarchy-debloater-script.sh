@@ -8,7 +8,7 @@ sudo pacman -Rns $(pacman -Qdtq)
 sudo pacman -Scc
 
 # Remove common junk (edit this list)
-sudo pacman -Rns libreoffice-fresh signal-desktop spotify typora xournalpp kdenlive obsidian 1password-bin 1password-cli aether pinta
+sudo pacman -Rns chromium libreoffice-fresh signal-desktop spotify typora xournalpp kdenlive obsidian 1password-beta 1password-cli aether pinta
 
 # Done
 echo "Done."
