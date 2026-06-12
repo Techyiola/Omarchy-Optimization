@@ -15,6 +15,8 @@ Removes opinionated default apps you probably don't need:
 | 1password-cli |
 | aether |
 | spotify |
+| chromium |
+| claude-code |
 | libreoffice-fresh |
 | typora |
 | xournalpp |
