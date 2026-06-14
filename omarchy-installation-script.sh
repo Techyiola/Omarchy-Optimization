@@ -6,7 +6,7 @@ sudo pacman -Syu
 yay
 
 # Remove common junk (edit this list)
-yay -S fish nano catnap linux-wifi-hotspot hostapd dnsmasq pacman-contrib zen-browser-bin yazi
+yay -S fish nano catnap linux-wifi-hotspot hostapd dnsmasq pacman-contrib zen-browser-bin yazi pacman-contrib 
 
 # Remove orphans
 sudo pacman -Rns $(pacman -Qdtq)
