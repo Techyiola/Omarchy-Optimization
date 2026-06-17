@@ -38,5 +38,7 @@ Installs lightweight alternatives and useful tools:
 | pacman-contrib | Extra pacman utilities |
 | zen-browser-bin | Privacy-focused browser |
 | yazi | Blazing fast terminal file manager |
+| waybar theme | from HANCORE-linux 2.9b | 
+
 
 Also installs the **[latchdark theme](https://github.com/atif-1402/omarchy-latchdark-theme)** for a darker Omarchy look.
