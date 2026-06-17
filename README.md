@@ -42,3 +42,4 @@ Installs lightweight alternatives and useful tools:
 
 
 Also installs the **[latchdark theme](https://github.com/atif-1402/omarchy-latchdark-theme)** for a darker Omarchy look.
+downloads the golden brown theme from atif-1402 for omarchy
